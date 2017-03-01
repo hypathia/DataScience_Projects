@@ -14,7 +14,7 @@ This repo contains some projects I've worked (or I'm still working) on, apart fr
 
 ### Reddit r/Portugal submissions extraction and analysis (ongoing)
 - [Extracting all 2016 submissions in r/Portugal](http://nbviewer.jupyter.org/github/hypathia/DataScience_Projects/blob/master/Reddit%20Portugal%20submissions%20extraction.ipynb)
-- [Analyzing submission, score and comment activity during 2016 in r/Portugal](http://nbviewer.jupyter.org/github/hypathia/DataScience_Projects/blob/master/Reddit%20Portugal%20activity%202016.ipynb)
+- [Analyzing submission, score and comment activity during 2016 in r/Portugal](http://nbviewer.jupyter.org/github/hypathia/DataScience_Projects/blob/master/Reddit%20Portugal%20activity%202016.ipynb) (ongoing)
 
 ### Examine.com webscrapping
 - [Scrapping supplements and respective effects to a matrix](http://nbviewer.jupyter.org/github/hypathia/DataScience_Projects/blob/master/examinedotcom%20webscrapper.ipynb)
