@@ -3,6 +3,9 @@
 This repo contains some projects I've worked (or I'm still working) on, apart from computational biology.
 
 
+### Telemarketing campaign success prediction
+- [With XGBoost and Bayesian Optimized parameters (ongoing)](http://nbviewer.jupyter.org/github/hypathia/DataScience_Projects/blob/master/Predicting%20Bank%20Telemarketing%20sucess%20with%20XGBoost.ipynb)
+
 ### Wholesale customer segmentation
 - [Principal Component Analysis](http://nbviewer.jupyter.org/github/hypathia/DataScience_Projects/blob/master/PCA%20wholesale%20customers%20segmentation.ipynb)
 - [Predicting Customers Channel with Linear SVM, Random Forests and XGBoost](http://nbviewer.jupyter.org/github/hypathia/DataScience_Projects/blob/master/Predicting%20Customers%20Channel%20with%20SVM%2C%20RForests%2C%20XGBoost.ipynb) (ongoing)
